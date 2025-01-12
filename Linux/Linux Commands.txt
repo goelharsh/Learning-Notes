@@ -1,0 +1,23 @@
+1. ls: Lists the contents of a directory.
+2. cd: Changes the current working directory.
+3. pwd: Prints the current working directory.
+4. mkdir: Creates a new directory.
+5. touch: Creates a new file.
+6. cp: Copies a file or directory.
+7. mv: Moves or renames a file or directory.
+8. rm: Removes a file or directory.
+9. cat: Displays the contents of a file.
+10. less: Displays the contents of a file one page at a time.
+11. head: Displays the first few lines of a file.
+12. tail: Displays the last few lines of a file.
+13. grep: Searches for a pattern in a file.
+14. find: Searches for files and directories.
+15. chmod: Changes the permissions of a file or directory.
+16. chown: Changes the owner of a file or directory.
+17. kill: Terminates a process.
+18. top: Displays the system resource usage.
+19. df: Displays the disk usage.
+20. tar: Creates or extracts a tar archive.
+21. ssh: Connects to a remote system using SSH.
+22. scp: Copies files between systems using SSH.
+23. sudo: Executes a command with superuser privileges.
